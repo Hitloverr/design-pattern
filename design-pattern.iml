@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/flyweight/案例1-棋牌游戏" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flyweight/案例2-文本编辑" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/基本案例结构" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
