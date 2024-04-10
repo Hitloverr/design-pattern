@@ -12,6 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/singleton/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/effective-java/demo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strategy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chain/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/effective-java/chapterOne-createObject" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
